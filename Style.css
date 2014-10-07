@@ -1,4 +1,5 @@
 
+
 body{
 	background: url(img.jpg) no-repeat center top 70px;
 }
@@ -35,4 +36,10 @@ h1 {
 
 .btn {
 	background-color:#088A68;
+}
+
+#mc_embed_signup_scroll {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
 }
