@@ -31,8 +31,13 @@ h1 {
 
 .signup-form {
 	color: #fff;
+	text-align: center;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#mc_embed_signup input {
+	color: #000;
 }
 
 .btn {
