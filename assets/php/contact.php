@@ -1,8 +1,8 @@
 <?php
 
 	// Mail settings
-	$to      = "web-master72@yandex.ru";
-	$subject = "Node Contact Form";
+	$to      = "marijana.miric@gmail.com";
+	$subject = "Website Contact Form";
 
 	// You can put here your email
 	$header = "From: noreply@yoursite.com\r\n";
